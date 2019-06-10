@@ -1,6 +1,6 @@
 # IRC_robot
 
-An simple IRC_robot based on Python 3.
+A simple IRC_robot based on Python 3.
 Automatic reply and information crawler.
 
 Modify the file to join a channel :)
